@@ -1,0 +1,20 @@
+PROJECT 1:
+	WORK -> weld the car underbody.
+	ADVANTAGES:
+		1.It welds the car underbody even if the body is not fixed at a place.
+
+	DISADVANTAGES:
+		1.It's time complexity is higher.
+		2.It is costier than the other one.
+
+
+PROJECT 2:
+
+	WORK-> weld the car underbody.
+	ADVANTAGES:
+		1.It's time complexity is lower.
+		2.It is cheaper than the other one.
+	
+	DISADVANTAGES:
+		1.It welds the car underbody only if the car underbody is fixed at a place.
+		2.The body is not allowed to move even a little bit.
